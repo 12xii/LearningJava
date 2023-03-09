@@ -29,13 +29,3 @@ With base knowledge
 [Delete] : 기존 문서 삭제
 
 ---
-
-#### 20230307 TUE LEARNNING PLAN
-
-+ JAVA Base grammer
-+ HTTP & HTTPS
-+ RDBMS & MySQL
-+ REST API & REST
-+ URL / URN / URI
-
----
